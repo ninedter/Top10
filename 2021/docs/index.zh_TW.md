@@ -65,6 +65,7 @@
 因此，由於資料不完全的關係，我們只有從資料中選出 8 個類別，而並不是 10 個。剩下的兩個類別是從業界問卷中所選出的。這會允許在前線的參與者去選出他們認為的高風險，而不是純粹依據資料去判斷（甚至可能資料永遠都不會有出現的蹤跡）。
 ## 為什麼用事故率而不是用發生次數
 
+
 There are three primary sources of data. We identify them as
 Human-assisted Tooling (HaT), Tool-assisted Human (TaH), and raw
 Tooling.
